@@ -1,0 +1,26 @@
+h1 {
+    background-color: lightcyan; 
+    color: purple;
+}
+h2{
+    background-color: lightyellow;
+    color: blue;
+}
+
+
+.one{
+    background-color: black;
+    color: lightgray;
+}
+.two{
+    background-color: maroon;
+    color: yellowgreen;
+}
+
+#one{ background-color:lightgoldenrodyellow;
+    color: darkgoldenrod;
+}
+#two{
+    background-color: aqua;
+    color: blueviolet;
+}
